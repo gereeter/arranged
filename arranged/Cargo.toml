@@ -1,0 +1,9 @@
+[package]
+name = "arranged"
+version = "0.1.0"
+authors = ["Jonathan S <gereeter+code@gmail.com>"]
+
+[features]
+uninit_packedbits = []
+
+[dependencies]
